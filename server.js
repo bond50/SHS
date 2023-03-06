@@ -62,7 +62,7 @@ app.use((req, res, next) => {
 
 
 // port
-const port = process.env.PORT || 8001
+const port = process.env.PORT || 5000
 
 // route middleware
 // app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
